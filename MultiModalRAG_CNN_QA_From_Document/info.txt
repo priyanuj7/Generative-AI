@@ -1,0 +1,1 @@
+A project to ask questions from Document including images to get proper information related to CNN module from my masters.
